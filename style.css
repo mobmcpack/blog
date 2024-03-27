@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.col-md-8{
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+footer{
+    text-align: center;
+}
